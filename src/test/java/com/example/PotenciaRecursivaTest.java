@@ -20,10 +20,10 @@ public class PotenciaRecursivaTest {
         assertEquals(15625, PotenciaRecursiva.potencia(5, 6));
     }
 
-   // @Test
-   // void testPotenciaCuatro() {
-       // assertEquals(81, PotenciaRecursiva.potencia(6, 4));
-    }
+ //   @Test
+  //  void testPotenciaCuatro() {
+  //      assertEquals(81, PotenciaRecursiva.potencia(6, 4));
+   // }
 
     @Test
     void testPotenciaNegativaBase() {
@@ -32,9 +32,7 @@ public class PotenciaRecursivaTest {
 
    // @Test
    // void testPotenciaExponenteNegativo() {
-       // assertEquals(0.03703, PotenciaRecursiva.potencia(3, -3), 0.0001); 
+      //  assertEquals(0.03703, PotenciaRecursiva.potencia(3, -3), 0.0001); 
        //tolerancia
-    //}
+   // }
 }
-
-
