@@ -34,6 +34,7 @@ public class PotenciaRecursivaTest {
    // void testPotenciaExponenteNegativo() {
        // assertEquals(0.03703, PotenciaRecursiva.potencia(3, -3), 0.0001); 
        //tolerancia
-    }
+    //}
 }
+
 
