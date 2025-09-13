@@ -6,7 +6,7 @@ public class PotenciaRecursiva {
         return base * potencia(base, exponente - 1);
     }
 }
-
+//commit
        
    // public static double multiplicar(int a, int b) {
      //   if (b == 0) return 0;
@@ -19,6 +19,7 @@ public class PotenciaRecursiva {
       //  return multiplicar(base, potencia(base, exponente - 1));
    //}
 //}
+
 
 
 
